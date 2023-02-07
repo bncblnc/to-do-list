@@ -15,7 +15,7 @@
 
 <h3>▶ Como rodar:</h3>
 <div>
-    <p>Você pode acessar <a href="">clicando aqui</a>.</p>
+    <p>Você pode acessar <a href="https://to-do-list-ruddy-alpha.vercel.app/">clicando aqui</a>.</p>
 </div>
 <hr>
 <div align="center">
